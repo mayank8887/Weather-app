@@ -1,0 +1,52 @@
+.mapouter{
+    margin-top: -300px;
+    margin-left: 700px;
+}
+h2{
+    margin-top: 0px;
+    color: rgba(89, 191, 254, 0.927);
+}
+input{
+    margin-top: -100px;
+    border-radius: 5px;
+    border: none;
+}
+button{
+    border-radius: 2px;
+    border: none;
+}
+#container7{
+    margin-top:-190px;
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+}
+#container{
+    width: 350px;
+}
+#container>p{
+    font-size:large;
+    font-weight:bold;
+    text-decoration: underline;
+}
+#container7 p{
+    text-align: center;
+    color:white;
+}
+#container7 img{
+    border-radius: 20px;
+    background-color: black;
+    margin-left: 30px;
+}
+#container7>div{
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+body{
+    background-color: rgb(62, 60, 60);
+    background-image: url("https://images.pexels.com/photos/1431822/pexels-photo-1431822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    
+}
